@@ -1,0 +1,13 @@
+JPEN2016UCDTESTBENCHGENERATORFILE
+C:\Users\lab\Documents\DigitalSystems\Thursday\CalcDesign10\project_1\project_1.srcs\sources_1\imports\new\CalcaLogic.v:/:myCalc
+5000000:/:True:/:150
+clk :/:rst :/:keycode [4:0]:/:newkey :/:
+1:/:1:/:5:/:1:/:
+Xdisplay [15:0]:/:LED_NEG_digit :/:LED_OVW :/:
+16:/:1:/:1:/:
+
+
+0:/:0:/:1.25:/:1:/:4.25:/:0:/:150:/:0:/:
+5.16666666666667:/:[0]:/:4.66666666666667:/:[18]:/:5.66666666666667:/:[01]:/:84.5:/:[03]:/:
+0:/:0:/:12.75:/:1:/:13.25:/:0:/:18.75:/:1:/:19.25:/:0:/:150:/:0:/:
+keycode [4:0] [5'h]:/:

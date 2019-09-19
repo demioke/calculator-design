@@ -1,0 +1,17 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lab/Documents/DigitalSystems/Thursday/CalcDesign10/project_1/project_1.srcs/sources_1/imports/CalcDesign10/hex2seg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hex2seg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lab/Documents/DigitalSystems/Thursday/CalcDesign10/project_1/project_1.srcs/sources_1/imports/CalcDesign10/keypad-black-box.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module keypad
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lab/Documents/DigitalSystems/Thursday/CalcDesign10/Display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DisplayInterface
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lab/Documents/DigitalSystems/Thursday/CalcDesign10/project_1/project_1.srcs/sources_1/imports/CalcDesign10/clockReset.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clockReset
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lab/Documents/DigitalSystems/Thursday/CalcDesign10/project_1/project_1.srcs/sources_1/imports/new/CalcaLogic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myCalc
+WARNING: [VRFC 10-2292] extra semicolon is not allowed here in this dialect. Use SystemVerilog mode [C:/Users/lab/Documents/DigitalSystems/Thursday/CalcDesign10/project_1/project_1.srcs/sources_1/imports/new/CalcaLogic.v:47]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lab/Documents/DigitalSystems/Thursday/CalcDesign10/project_1/project_1.srcs/sources_1/imports/CalcDesign10/CalculatorTop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module calculator_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lab/Documents/DigitalSystems/Thursday/CalcDesign10/project_1/project_1.srcs/sim_1/imports/new/CalcaLogic_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TB_myCalc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lab/Documents/DigitalSystems/Thursday/CalcDesign10/project_1/project_1.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

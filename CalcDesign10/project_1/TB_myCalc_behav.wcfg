@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_myCalc_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB_myCalc" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="21" />
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/newkey" type="logic">
+      <obj_property name="ElementShortName">newkey</obj_property>
+      <obj_property name="ObjectShortName">newkey</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/keycode" type="array">
+      <obj_property name="ElementShortName">keycode[4:0]</obj_property>
+      <obj_property name="ObjectShortName">keycode[4:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/LED_NEG_digit" type="logic">
+      <obj_property name="ElementShortName">LED_NEG_digit</obj_property>
+      <obj_property name="ObjectShortName">LED_NEG_digit</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/LED_OVW" type="logic">
+      <obj_property name="ElementShortName">LED_OVW</obj_property>
+      <obj_property name="ObjectShortName">LED_OVW</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/Xdisplay" type="array">
+      <obj_property name="ElementShortName">Xdisplay[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Xdisplay[15:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/ADD" type="logic">
+      <obj_property name="ElementShortName">ADD</obj_property>
+      <obj_property name="ObjectShortName">ADD</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/SUB" type="logic">
+      <obj_property name="ElementShortName">SUB</obj_property>
+      <obj_property name="ObjectShortName">SUB</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/MULTI" type="logic">
+      <obj_property name="ElementShortName">MULTI</obj_property>
+      <obj_property name="ObjectShortName">MULTI</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/OP_T2" type="logic">
+      <obj_property name="ElementShortName">OP_T2</obj_property>
+      <obj_property name="ObjectShortName">OP_T2</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/CA" type="logic">
+      <obj_property name="ElementShortName">CA</obj_property>
+      <obj_property name="ObjectShortName">CA</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/CE" type="logic">
+      <obj_property name="ElementShortName">CE</obj_property>
+      <obj_property name="ObjectShortName">CE</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/digit" type="logic">
+      <obj_property name="ElementShortName">digit</obj_property>
+      <obj_property name="ObjectShortName">digit</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/EQUALS" type="logic">
+      <obj_property name="ElementShortName">EQUALS</obj_property>
+      <obj_property name="ObjectShortName">EQUALS</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/SQR" type="logic">
+      <obj_property name="ElementShortName">SQR</obj_property>
+      <obj_property name="ObjectShortName">SQR</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/CH_SIGN" type="logic">
+      <obj_property name="ElementShortName">CH_SIGN</obj_property>
+      <obj_property name="ObjectShortName">CH_SIGN</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/OP" type="array">
+      <obj_property name="ElementShortName">OP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">OP[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/Y" type="array">
+      <obj_property name="ElementShortName">Y[16:0]</obj_property>
+      <obj_property name="ObjectShortName">Y[16:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/LASTkey" type="logic">
+      <obj_property name="ElementShortName">LASTkey</obj_property>
+      <obj_property name="ObjectShortName">LASTkey</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/TB_myCalc/uut/digit" type="logic">
+      <obj_property name="ElementShortName">digit</obj_property>
+      <obj_property name="ObjectShortName">digit</obj_property>
+   </wvobject>
+</wave_config>
